@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as an FullStack Engineer Intern at Uber
 - [Portfolio][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m curredddddntly learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
