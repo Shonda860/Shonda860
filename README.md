@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working as an FullStack Engineer Intern at Uber
 - [Portfolio][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything 🧩
+- 👯 I’m looking to reworking my Capstone and expand upon the features 💻
+- 🥅 2020 Goals: To getting my first job in the industry
+- ⚡ Fun fact: I love am a big time UConn Women's Basketball Fan and I love to learn about tech!
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="SW Spotify Playing" width="350" />](https://open.spotify.com/playlist/7JR9yiLLYUi6ehRjs4175p)
@@ -71,7 +71,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shonda860&show_icons=true&hide_border=true" /> -->
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.shonda860.vercel.app/?username=shonda860&show_icons=true&hide_border=true" /> -->
 
 </details>
 
