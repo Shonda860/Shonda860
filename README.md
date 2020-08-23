@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=shondawarren.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shondawarren.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/shonda__warren?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shonda__warren)
 
-## I'm a Daughter, Fullstack Software Engineer, and LifeLong Learner!
+## I'm a Daughter, Fullstack Software Engineer, and LifeLong Learner❗️
 
-- 🔭 I’m currently working on as FullStack Software Engineer @Uber!
+- 🔭 I’m currently working on as FullStack Software Engineer @Uber🚙!
 - 🌱 I’m currently learning everything 📔
 - 💻 I’m looking to landing my first job in the industry!
 - 🥅 2020 Goals: Rework my capstone and add more features!
