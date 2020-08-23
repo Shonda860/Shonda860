@@ -93,12 +93,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
+[website]: https://shondawarren.com
+[twitter]: https://twitter.com/shonda__warren
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/blackolive625
+[linkedin]: https://www.linkedin.com/in/norshonda-shonda-warren-0b8a2297
 [webdevplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[jsplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
+[cssplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
+[reactplaylist]:https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
