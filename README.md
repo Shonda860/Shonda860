@@ -5,7 +5,7 @@
 
 ## I'm a Daughter, Fullstack Software Engineer, and LifeLong Learner!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on as FullStack Software Engineer @Uber!
 - 🌱 I’m currently learning everything 📔
 - 💻 I’m looking to landing my first job in the industry!
 - 🥅 2020 Goals: Rework my capstone and add more features!
