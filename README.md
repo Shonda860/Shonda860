@@ -80,11 +80,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
-2. 💪 Opened PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
-3. 🎉 Merged PR [#6](https://github.com//Shonda860/Capstone/pull/6) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
-4. 💪 Opened PR [#6](https://github.com//Shonda860/Capstone/pull/6) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
-5. ❌ Closed PR [#1](https://github.com//Shonda860/Capstone/pull/1) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
+1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shonda's Github Stats" src="https://github-readme-stats.shonda860.vercel.app/?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -101,7 +101,7 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[webdevplaylist]: https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
