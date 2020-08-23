@@ -1,7 +1,7 @@
 ### Hi there, I'm Shonda - SW [LOOK @ ME!][website] 👋
 
 [![Website](https://img.shields.io/website?label=shondawarren.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shondawarren.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/shonda__warren?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shonda860)
+[![Twitter Follow](https://img.shields.io/twitter/follow/shonda__warren?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shonda__warren)
 
 ## I'm a Daughter, Fullstack Software Engineer, and LifeLong Learner!
 
