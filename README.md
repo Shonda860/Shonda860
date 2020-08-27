@@ -73,11 +73,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Ada-C13/linked-list-js/pull/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
-2. 🎉 Merged PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
-3. 💪 Opened PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
-4. 🎉 Merged PR [#6](https://github.com//Shonda860/Capstone/pull/6) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
-5. 💪 Opened PR [#6](https://github.com//Shonda860/Capstone/pull/6) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
+1. 🗣 Commented on [#1](https://github.com//Ada-C13/linked-list-js/issues/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
+2. 💪 Opened PR [#1](https://github.com//Ada-C13/linked-list-js/pull/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
+3. 🎉 Merged PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
+4. 💪 Opened PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
+5. 🎉 Merged PR [#6](https://github.com//Shonda860/Capstone/pull/6) in [Shonda860/Capstone](https://github.com//Shonda860/Capstone)
 <!--END_SECTION:activity-->
 
 </details>
