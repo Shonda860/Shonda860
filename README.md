@@ -73,11 +73,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//Ada-C13/tree-practice-js/pull/1) in [Ada-C13/tree-practice-js](https://github.com//Ada-C13/tree-practice-js)
-2. 💪 Opened PR [#3](https://github.com//Ada-C14/tree-practice-js/pull/3) in [Ada-C14/tree-practice-js](https://github.com//Ada-C14/tree-practice-js)
-3. 🗣 Commented on [#1](https://github.com//Ada-C13/linked-list-js/issues/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
-4. 💪 Opened PR [#1](https://github.com//Ada-C13/linked-list-js/pull/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
-5. 🎉 Merged PR [#1](https://github.com//Shonda860/Shonda860/pull/1) in [Shonda860/Shonda860](https://github.com//Shonda860/Shonda860)
+1. 💪 Opened PR [#1](https://github.com//Ada-C13/stacks-queues-js/pull/1) in [Ada-C13/stacks-queues-js](https://github.com//Ada-C13/stacks-queues-js)
+2. 💪 Opened PR [#1](https://github.com//Ada-C13/tree-practice-js/pull/1) in [Ada-C13/tree-practice-js](https://github.com//Ada-C13/tree-practice-js)
+3. 💪 Opened PR [#3](https://github.com//Ada-C14/tree-practice-js/pull/3) in [Ada-C14/tree-practice-js](https://github.com//Ada-C14/tree-practice-js)
+4. 🗣 Commented on [#1](https://github.com//Ada-C13/linked-list-js/issues/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
+5. 💪 Opened PR [#1](https://github.com//Ada-C13/linked-list-js/pull/1) in [Ada-C13/linked-list-js](https://github.com//Ada-C13/linked-list-js)
 <!--END_SECTION:activity-->
 
 </details>
