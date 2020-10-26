@@ -51,7 +51,7 @@
 ### 📺 Capstone Demo Overview on YouTube 
 
 <!-- YOUTUBE:START -->
-- [My Capstone|Encore Video Demo| ADA Developers Academy| Juy 2020](https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be)
+- [My Capstone|Encore Video Demo| ADA Developers Academy| July 2020](https://www.youtube.com/watch?v=oeOXEVjB-6w&feature=youtu.be)
 
 <!-- YOUTUBE:END -->
 
