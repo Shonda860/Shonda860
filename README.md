@@ -66,11 +66,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/Ada-C13/dynamic-programming-js/pull/6) in [Ada-C13/dynamic-programming-js](https://github.com/Ada-C13/dynamic-programming-js)
-2. 💪 Opened PR [#5](https://github.com/Ada-C13/heaps-js/pull/5) in [Ada-C13/heaps-js](https://github.com/Ada-C13/heaps-js)
-3. 💪 Opened PR [#5](https://github.com/Ada-C13/hash-practice-js/pull/5) in [Ada-C13/hash-practice-js](https://github.com/Ada-C13/hash-practice-js)
-4. 💪 Opened PR [#1](https://github.com/Ada-C13/stacks-queues-js/pull/1) in [Ada-C13/stacks-queues-js](https://github.com/Ada-C13/stacks-queues-js)
-5. 💪 Opened PR [#1](https://github.com/Ada-C13/tree-practice-js/pull/1) in [Ada-C13/tree-practice-js](https://github.com/Ada-C13/tree-practice-js)
+1. 💪 Opened PR [#14](https://github.com/Ada-C13/Bipartition-Graph/pull/14) in [Ada-C13/Bipartition-Graph](https://github.com/Ada-C13/Bipartition-Graph)
+2. 💪 Opened PR [#6](https://github.com/Ada-C13/dynamic-programming-js/pull/6) in [Ada-C13/dynamic-programming-js](https://github.com/Ada-C13/dynamic-programming-js)
+3. 💪 Opened PR [#5](https://github.com/Ada-C13/heaps-js/pull/5) in [Ada-C13/heaps-js](https://github.com/Ada-C13/heaps-js)
+4. 💪 Opened PR [#5](https://github.com/Ada-C13/hash-practice-js/pull/5) in [Ada-C13/hash-practice-js](https://github.com/Ada-C13/hash-practice-js)
+5. 💪 Opened PR [#1](https://github.com/Ada-C13/stacks-queues-js/pull/1) in [Ada-C13/stacks-queues-js](https://github.com/Ada-C13/stacks-queues-js)
 <!--END_SECTION:activity-->
 
 </details>
